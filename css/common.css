@@ -73,7 +73,7 @@ body {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
-  outline: 2px solid tomato;
+  /* outline: 2px solid tomato; */
 }
 
 /* утилита */
@@ -197,9 +197,9 @@ body {
   color: var(--accent-color);
 }
 /*footer*/
-* {
+/* * {
   outline: 2px solid yellowgreen;
-}
+} */
 .footer {
   background-color: #2f303a;
   padding-top: 60px;
@@ -310,7 +310,7 @@ address .link:not(:last-child) {
 .section:not(.features) {
   padding-top: 94px;
   padding-bottom: 94px;
-  outline: 2px solid tomato;
+  /* outline: 2px solid tomato; */
 }
 .section.features {
   padding-top: 94px;
@@ -335,7 +335,7 @@ address .link:not(:last-child) {
 }
 .features-list .item {
   width: 270px;
-  background-color: tomato;
+  /* background-color: tomato; */
 }
 .features-list .item + .item {
   margin-left: 30px;
@@ -486,7 +486,7 @@ address .link:not(:last-child) {
 .portfolio {
   padding-top: 94px;
   padding-bottom: 94px;
-  outline: 2px solid tomato;
+  /* outline: 2px solid tomato; */
 }
 .box-button {
   display: flex;
